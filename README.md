@@ -1,7 +1,7 @@
 # 🚀 Astro Components
 
 
-**Astro Components** is a collection of all the reusable components I coded over the years for my [Astro](https://astro.build/) landing sites using + [Tailwind CSS](https://tailwindcss.com/).
+**Astro Components** is a collection of all the reusable components I coded over the years for my [Astro](https://astro.build/) landing sites using [Tailwind CSS](https://tailwindcss.com/) and [shadcn/ui](https://ui.shadcn.com/) components.
 
 <br>
 
@@ -38,7 +38,7 @@ Astro Components is structured in a way that you can easily copy and paste the c
 
 Each component lives under it's own folder in this repository so that you can easily find the component you need.
 
-This means that if you want a navbar, you can just go to the `navbars` folder and copy the `Navbar.astro` wherever you want in your Astro project.
+This means that if you want a navbar, you can just go to the `navbar` folder and copy the `Navbar.astro` wherever you want in your Astro project.
 
 ### Configuration
 
